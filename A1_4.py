@@ -1,0 +1,8 @@
+num = input("Enter your number herer :- ")
+print("Here is the data of the user data ",type(num),"\nThe new value of the data is ", num)
+num = int(num)
+print("Here is the new data of the user data ",type(num),"\nThe new value of the data is ", num)
+num = float(num)
+print("Here is the new data of the user data ",type(num),"\nThe new value of the data is ", num)
+num = str(num)
+print("Here is the new data of the user data ",type(num),"\nThe new value of the data is ", num)

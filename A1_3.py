@@ -1,0 +1,5 @@
+int1 = int(input("Enter your integer 1 here:- "))
+int2 = int(input("Enter your integer 2 here:- "))
+flt = float(input("Enter your float value here:- "))
+avg = float((int1+int2+flt)/3)
+print("Your avg value is ",avg," and data type of this is ",type(avg))
